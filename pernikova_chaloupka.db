@@ -5,7 +5,7 @@
 34;jsi v lese;les.png;kam chces jit dal, nemuzes jit ne sever;44;na jih;35;na vychod;33;na zapad;;
 13;jsi na louce;paseka.png;kam chces jit dal, nemuzes jit na sever ;23;na jih;14;na vychod;12;na zapad;;
 22;jsi u reky;;kam chces jit dal, nemuzes jit na zapad ;12;na sever ;32;na jih;23;na vychod;;
-42;jsi na louce ;;kam chces jit dal, nemuzes jit na zapad ;32;na sever ;52;na jih;43;na vychod;;
+42;jsi na louce ;paseka.png;kam chces jit dal, nemuzes jit na zapad ;32;na sever ;52;na jih;43;na vychod;;
 12;jsi u reky;;kam chces jit dal, nemuzes jit na sever a na zapad;22;na jih;13;na vychod;;;;
 52;jsi na louce s vlkem;;radsi utec, nemuzes na jih a na zapad;42;na sever ;53;na vychod;60;pohladit vlka;;
 53;jsi na louce s konem;;blokuje ti cestu na jih, kam pujdes dal;43;na sever ;54;na vychod;52;na zapad;;
@@ -15,7 +15,7 @@
 15;jsi v lese;les.png;kam chces jit dal, nemuzes jit na sever ;25;na jih;16;na vychod;14;na zapad;;
 25;jsi na pasece rostou tu maliny;;kam chces jit dal, nemuzes na zapad;15;na sever ;35;na jih;26;na vychod;;
 35;jsi v lese ;les.png;kam chces jit dal;25;na sever ;45;na jih;36;na vychod;34;na zapad
-45;jsi na pasece s vysoym stromem;;kam chces jit dal;35;na sever ;55;na jih;46;na vychod;44;na zapad
+45;jsi na pasece s vysokym stromem;;kam chces jit dal;35;na sever ;55;na jih;46;na vychod;44;na zapad
 55;jsi v lese;les.png;kam chces jit dal, nemuzes jit na jih;45;na sever ;56;na vychod;54;na zapad;;
 16;jsi v lese;les.png;kam chces jit dal, nemuzes jit na sever a na vychod;26;na jih;15;na zapad;;;;
 26;jsi v lese;les.png;kam chces jit dal, nemuzes jit na vychod;16;na sever ;36;na jih;25;na zapad;;
