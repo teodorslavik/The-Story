@@ -8,7 +8,7 @@
 14;jsi v lese;les.png;kam chceš jít dál;15;na východ;13;na západ;;;;;;
 15;jsi v lese;les.png;kam chceš jít dál;25;na jih;14;na západ;;;;;;
 25;jsi na pasece rostou tu maliny;;Sesbírej maliny, nebo běž jinam, nemuzes na západ a na východ;15;na sever ;35;na jih;125;Sbírat maliny;;;;
-35;jsi v lese ;les.png;kam chceš jít dál;25;na sever ;45;na jih;36;na východ;34;na západ;;
+35;jsi v lese ;les.png;kam chceš jít dál;25;na sever ;45;na jih;34;na západ;;;;
 125;jsi na pasece rostou tu maliny;;Setmělo se a ty nevíš kudy domů, kam chceš jít dál;135;na jih;126;na východ;;;;;;
 126;Jsi v lese ;les.png;kam chceš jít dál;136;na jih;125;na západ;;;;;;
 134;Jsi v lese;les.png;kam chceš jít dál;144;na jih;135;na východ;;;;;;
