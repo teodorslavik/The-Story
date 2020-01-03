@@ -1,36 +1,36 @@
-33;jsi doma ve sve chaloupce;;Najdi maliny a nasbírej je, nemůžeš jít na jih;23;na sever ;34;na vychod;32;na zapad;;
-23;jsi na louce;paseka.png;kam chceš jít dál, nemůžeš jít na východ;13;na sever ;33;na jih;22;na zapad;;
+33;jsi doma ve sve chaloupce;;Najdi maliny a nasbírej je;23;na sever ;34;na vychod;32;na zapad;;
+23;jsi na louce;paseka.png;kam chceš jít dál;13;na sever ;33;na jih;22;na zapad;;
 1043;jsi na louce;paseka.png;kam chces jit dal;33;na sever ;53;na jih;44;na vychod;42;na zapad
-32;jsi na louce;paseka.png;kam chceš jít dál, nemůžeš jít na západ a na jih;22;na sever ;33;na vychod;;;;
-34;jsi v lese;les.png;kam chceš jít dál, nemůžeš jít na sever a na jih ;35;na vychod;33;na zapad;;;;
-13;jsi na louce;paseka.png;kam chceš jít dál, nemůžeš jít na sever ;23;na jih;14;na vychod;12;na zapad;;
-22;jsi u reky;;kam chceš jít dál, nemůžeš jít na západ ;12;na sever ;32;na jih;23;na vychod;;
+32;jsi na louce;paseka.png;kam chceš jít dál;22;na sever ;33;na vychod;;;;
+34;jsi v lese;les.png;kam chceš jít dál;35;na vychod;33;na zapad;;;;
+13;jsi na louce;paseka.png;kam chceš jít dál;23;na jih;14;na vychod;12;na zapad;;
+22;jsi u řeky;;kam chceš jít dál ;12;na sever ;32;na jih;23;na vychod;;
 1042;jsi na louce ;paseka.png;kam chces jit dal, nemuzes jit na zapad ;32;na sever ;52;na jih;43;na vychod;;
-12;jsi u reky;;kam chceš jít dál, nemůžeš jít na sever a na západ;22;na jih;13;na vychod;;;;
+12;jsi u řeky;;kam chceš jít dál;22;na jih;13;na vychod;;;;
 1052;jsi na louce s vlkem;;radsi utec, nemuzes na jih a na zapad;42;na sever ;53;na vychod;60;pohladit vlka;;
 1053;jsi na louce s konem;;blokuje ti cestu na jih, kam pujdes dal;43;na sever ;54;na vychod;52;na zapad;;
-14;jsi v lese;les.png;kam chceš jít dál, nemůžeš na sever a na jih;15;na vychod;13;na zapad;;;;
+14;jsi v lese;les.png;kam chceš jít dál;15;na vychod;13;na zapad;;;;
 1044;jsi v lese;les.png;kam chces jit dal;34;na sever ;54;na jih;45;na vychod;43;na zapad
 1054;jsi v lese;les.png;kam chces jit dal, na jih nemuzes;44;na sever ;55;na vychod;53;na zapad;;
-15;jsi v lese;les.png;kam chceš jít dál, nemůžeš jít na sever a na východ;25;na jih;14;na zapad;;;;
-25;jsi na pasece rostou tu maliny;;Sesbírej maliny, nebo běž jinam, nemuzes na západ a na východ;15;na sever ;35;na jih;26;na vychod;125;Sbírat maliny
-35;jsi v lese ;les.png;kam chceš jít dál, nemůžeš jít na jih a východ;25;na sever ;45;na jih;36;na vychod;34;na zapad
+15;jsi v lese;les.png;kam chceš jít dál;25;na jih;14;na zapad;;;;
+25;jsi na pasece rostou tu maliny;;Sesbírej maliny, nebo běž jinam, nemuzes na západ a na východ;15;na sever ;35;na jih;125;Sbírat maliny;;
+35;jsi v lese ;les.png;kam chceš jít dál;25;na sever ;45;na jih;36;na vychod;34;na zapad
 1045;jsi na pasece s vysokym stromem;;kam chces jit dal;35;na sever ;55;na jih;46;na vychod;44;na zapad
 1055;jsi v lese;les.png;kam chces jit dal, nemuzes jit na jih;45;na sever ;56;na vychod;54;na zapad;;
 1016;jsi v lese;les.png;kam chces jit dal, nemuzes jit na sever a na vychod;26;na jih;15;na zapad;;;;
 1026;jsi v lese;les.png;kam chces jit dal, nemuzes jit na vychod;16;na sever ;36;na jih;25;na zapad;;
 1036;jsi v lese;les.png;kam chces jit dal, nemuzes jit na vychod;26;na sever ;46;na jih;45;na zapad;;
 1046;jsi v lese;les.png;kam chces jit dal, nemuzes jit na vychod;36;na sever ;56;na jih;45;na zapad;;
-1056;jsi na pasece u pernikove chaloupky;chaloupka.png;kam chces jit dal, nemuzes jit na jih a vychod;46;na sever ;55;na zapad;;;;
+1056;jsi na pasece u pernikove chaloupky;chaloupka.png;kam chces jit dal, nemuzes jit na jih a na vychod;46;na sever ;55;na zapad;;;;
 1060;Vlk te sezral;;Game over;33;zacit znova;;;;;;
-125;Setmělo se a ty nevíš kudy domů, jsi na pasece rostou tu maliny;;kam chceš jít dál, nemůžeš jít na sever a na západ;135;na jih;126;na východ;;;;
-126;Jsi v lese ;les.png;kam chceš jít dál, nemůžeš jít na sever a na východ;136;na jih;125;na západ;;;;
-134;Jsi v lese;les.png;kam chceš jít dál, nemůžeš jít na sever a na západ;144;na jih;135;na východ;;;;
+125;jsi na pasece rostou tu maliny;;Setmělo se a ty nevíš kudy domů, kam chceš jít dál;135;na jih;126;na východ;;;;
+126;Jsi v lese ;les.png;kam chceš jít dál;136;na jih;125;na západ;;;;
+134;Jsi v lese;les.png;kam chceš jít dál;144;na jih;135;na východ;;;;
 135;Jsi v lese;les.png;kam chceš jít dál;125;na sever ;145;na jih;136;na východ;134;na západ
-136;Jsi v lese;les.png;kam chceš jít dál, nemůžeš jít na východ ;126;na sever ;146;na jih;135;na západ;;
-144;Jsi v lese;les.png;kam chceš jít dál, nemůžeš jít na jih a na západ;134;na sever ;145;na východ;;;;
+136;Jsi v lese;les.png;kam chceš jít dál;126;na sever ;146;na jih;135;na západ;;
+144;Jsi v lese;les.png;kam chceš jít dál;134;na sever ;145;na východ;;;;
 145;Jsi na pasece u vysokého stromu;;Můžeš na něj vylézt, ale když spadneš z velké výšky můžes si ublížit, nebo můžeš jít jinam, ale nemůžeš jít na jih;135;na sever ;146;na východ;144;na západ;901;Vylézt na strom
-146;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na jih a na východ;136;na sever ;145;na západ;;;;
+146;Jsi v lese;les.png;Kam chceš jít dál;136;na sever ;145;na západ;;;;
 901;Lezeš na strom ;;Vyber větev na kterou půjdeš;903;levá;902;pravá;;;;
 903;Spadl jsi;;Nic se ti nestalo, můžeš lézt dál;901;lézt dál;;;;;;
 902;Lezeš na strom ;;Vyber další větev na kterou půjdeš;903;levá;904;pravá;;;;
@@ -40,14 +40,14 @@
 999;Spadl jsi z velké výšky;;Spadl jsi z velké výšky a omdlel jsi, chceš pokračovat;33;Chci pokračovat;;;;;;
 909;Vylezl jsi úplně nahoru;;Můžes se rozhlédnout;910;Rozhlédnout se;;;;;;
 910;Uviděl jsi světélko;;Kousek od tebe jsi viděl světélko, slez dolů a běž tam;245;Slézt dolů;;;;;;
-245;Slezl jsi ze stromu;;Běž nají světélko, nemůžeš jít na sever;355;na jih;246;na východ;244;na západ;;
-244;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na sever a na západ;354;na jih;355;na východ;;;;
-246;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na sever a na východ;356;na jih;245;na západ;;;;
-354;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na jih a na západ;244;na sever ;355;na východ;;;;
-355;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na jih;245;na sever ;356;na východ;354;na západ;;
-356;Jsi na pasece u perníkové chaloupky;chaloupka.png;Je tma a jsi unavený, můžeš jít dovnitř, nebo jít jinam, nemůžeš jít na jih a na východ;246;na sever ;355;na západ;801;dovnitř;;
-801;V perníkové chaloupce;;V perníkové chaloupce byla bába, ta tě začala krmit, jen jsi vešel do dveří, když jsi jedl zatopila v kamnech. Už jsi se najedl dost a bába chce, aby jsi si sednul na lopatu před pecí;802;Sednout si;804;Zeptat se: ,, jak si na ní mám sednout?”;;;;
-802;Zemřel jsi;;Bába tě v peci upekla, chceš pokračovat;33;Chci pokračovat;;;;;;
-804;V perníkové chaloupce;;Bába si na lopatu neochotně sedla a řekla: ,,takhle.” Co jí odpovíš?;801;Už vím;805;Hodit bábu do pece;;;;
+245;Slezl jsi ze stromu;;Běž nají světélko;355;na jih;246;na východ;244;na západ;;
+244;Jsi v lese;les.png;Kam chceš jít dál;354;na jih;355;na východ;;;;
+246;Jsi v lese;les.png;Kam chceš jít dál;356;na jih;245;na západ;;;;
+354;Jsi v lese;les.png;Kam chceš jít dál;244;na sever ;355;na východ;;;;
+355;Jsi v lese;les.png;Kam chceš jít dál;245;na sever ;356;na východ;354;na západ;;
+356;Jsi na pasece u perníkové chaloupky;chaloupka.png;Je tma a jsi unavený, můžeš jít dovnitř, nebo jít jinam;246;na sever ;355;na západ;801;Jít dovnitř;;
+801;V perníkové chaloupce;;V perníkové chaloupce byla bába, ta tě začala krmit, jen co jsi vešel do dveří, když jsi jedl zatopila v kamnech. Už jsi se najedl dost a bába chce, aby jsi si sednul na lopatu před pecí;802;Sednout si;804;Zeptat se: ,, jak si na ní mám sednout?”;;;;
+802;Zemřel jsi;;Bába tě v peci upekla, chceš pokračovat?;33;Chci pokračovat;;;;;;
+804;V perníkové chaloupce;;Bába si na lopatu neochotně sedla a řekla: ,,takhle.” Co uděláš?;801;Řeknu ,,Už vím”;805;Hodit bábu do pece;;;;
 805;V perníkové chaloupce;;Bába shořela v peci, můžeš jít ven;456;Jít ven;;;;;;
-456;Jsi na pasece u perníkové chaloupky;;Celý den jsi nebyl doma, běž domů. Kam chceš jít, nemůžeš jít na jih a na východ;446;na sever ;455;na západ;;;;
+456;Jsi na pasece u perníkové chaloupky;;Celý den jsi nebyl doma, běž domů;446;na sever ;455;na západ;;;;
