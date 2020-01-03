@@ -26,7 +26,7 @@
 999;Spadl jsi z velké výšky;;Spadl jsi z velké výšky a omdlel jsi, chceš začít znovu;33;Začít znovu;;;;;;;;
 909;Vylezl jsi úplně nahoru;;Můžes se rozhlédnout;910;Rozhlédnout se;;;;;;;;
 910;Uviděl jsi světélko;;Kousek od tebe jsi viděl světélko, slez dolů a běž tam;245;Slézt dolů;;;;;;;;
-245;Slezl jsi ze stromu;;Běž nají světélko;355;na jih;246;na východ;244;na západ;;;;
+245;Slezl jsi ze stromu;;Běž najít světélko;355;na jih;246;na východ;244;na západ;;;;
 244;Jsi v lese;les.png;Kam chceš jít dál;354;na jih;355;na východ;;;;;;
 246;Jsi v lese;les.png;Kam chceš jít dál;356;na jih;245;na západ;;;;;;
 354;Jsi v lese;les.png;Kam chceš jít dál;244;na sever ;355;na východ;;;;;;
