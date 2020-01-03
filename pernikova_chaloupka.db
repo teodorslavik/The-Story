@@ -31,3 +31,12 @@
 144;Jsi v lese;les.png;kam chceš jít dál, nemůžeš jít na jih a na západ;134;na sever ;145;na východ;;;;
 145;Jsi na pasece u vysokého stromu;;Můžeš na něj vylézt, ale když spadneš z velké výšky můžes si ublížit, nebo můžeš jít jinam, ale nemůžeš jít na jih;135;na sever ;146;na východ;144;na západ;901;Vylézt na strom
 146;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na jih a na východ;136;na sever ;145;na západ;;;;
+901;Lezeš na strom ;;Vyber větev na kterou půjdeš;903;levá;902;pravá;;;;
+903;Spadl jsi;;Nic se ti nestalo, můžeš lézt dál;901;lézt dál;;;;;;
+902;Lezeš na strom ;;Vyber další větev na kterou půjdeš;903;levá;904;pravá;;;;
+904;Lezeš na strom ;;Vyber další větev na kterou půjdeš;905;levá;906;pravá;;;;
+906;Spadl jsi o větev níž;;Nic se ti nestalo, můžeš lézt dál;904;lézt dál;;;;;;
+905;Lezeš na strom ;;Vyber další větev na kterou půjdeš;999;levá;909;pravá;;;;
+999;Spadl jsi z velké výšky;;Spadl jsi z velké výšky a omdlel jsi, chceš pokračovat;33;Chci pokračovat;;;;;;
+909;Vylezl jsi úplně nahoru;;Můžes se rozhlédnout;910;Rozhlédnout se;;;;;;
+910;Uviděl jsi světélko;;Kousek od tebe jsi viděl světélko, slez dolů a běž tam;245;Slézt dolů;;;;;;
