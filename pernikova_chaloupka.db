@@ -40,3 +40,14 @@
 999;Spadl jsi z velké výšky;;Spadl jsi z velké výšky a omdlel jsi, chceš pokračovat;33;Chci pokračovat;;;;;;
 909;Vylezl jsi úplně nahoru;;Můžes se rozhlédnout;910;Rozhlédnout se;;;;;;
 910;Uviděl jsi světélko;;Kousek od tebe jsi viděl světélko, slez dolů a běž tam;245;Slézt dolů;;;;;;
+245;Slezl jsi ze stromu;;Běž nají světélko, nemůžeš jít na sever;355;na jih;246;na východ;244;na západ;;
+244;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na sever a na západ;354;na jih;355;na východ;;;;
+246;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na sever a na východ;356;na jih;245;na západ;;;;
+354;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na jih a na západ;244;na sever ;355;na východ;;;;
+355;Jsi v lese;les.png;Kam chceš jít dál, nemůžeš jít na jih;245;na sever ;356;na východ;354;na západ;;
+356;Jsi na pasece u perníkové chaloupky;chaloupka.png;Je tma a jsi unavený, můžeš jít dovnitř, nebo jít jinam, nemůžeš jít na jih a na východ;246;na sever ;355;na západ;801;dovnitř;;
+801;V perníkové chaloupce;;V perníkové chaloupce byla bába, ta tě začala krmit, jen jsi vešel do dveří, když jsi jedl zatopila v kamnech. Už jsi se najedl dost a bába chce, aby jsi si sednul na lopatu před pecí;802;Sednout si;804;Zeptat se: ,, jak si na ní mám sednout?”;;;;
+802;Zemřel jsi;;Bába tě v peci upekla, chceš pokračovat;33;Chci pokračovat;;;;;;
+804;V perníkové chaloupce;;Bába si na lopatu neochotně sedla a řekla: ,,takhle.” Co odpovíš?;801;Už vím;805;Hodit bábu do pece;;;;
+805;V perníkové chaloupce;;Bába shořela v peci, můžeš jít ven;456;Jít ven;;;;;;
+456;Jsi na pasece u perníkové chaloupky;;Celý den jsi nebyl doma, běž domů, kam chceš jít, nemůžeš jít na jih a na východ;446;na sever ;455;na západ;;;;
