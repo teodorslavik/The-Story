@@ -43,7 +43,7 @@
 1101;Jsi u studny;studna_pohled_dovnitr2.png;Studna vyschla;453;jít pryč;;;;;;;;
 452;jsi na louce;paseka.png;Kam chceš jít dál;42;na sever ;453;na východ;;;;;;
 42;Jsi na louce;paseka.png;Něco se ti tu nezdá, chceš se po tom poohlédnout, nebo jít pryč;432;na sever ;452;na jih;443;na východ;4242;Poohlédnout se tu;;
-4242;Jsi na louce;paseka.png;Gratuluji našel jsi velikonoční vajíčko, je na něm napsáno #osmimístnýkód, ;42;jít pryč;;;;;;;;
+4242;Jsi na louce;paseka.png;Gratuluji našel jsi velikonoční vajíčko, je na něm napsáno #osmnáctimístnýkód, ;42;jít pryč;;;;;;;;
 443;Jsi na louce;paseka.png;Kam chceš jít dál;433;na sever ;453;na jih;444;na východ;42;na západ;;
 444;Jsi v lese s vlkem ;;Můžeš ho pohladit, nebo jít dál;434;na sever ;454;na jih;445;na východ;443;na západ;1106;pohladit vlka
 1106;Zemřel jsi;;Vlk tě sežral;33;Začít znovu;;;;;;;;
