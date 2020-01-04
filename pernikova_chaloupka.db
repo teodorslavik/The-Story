@@ -1,4 +1,4 @@
-33;jsi doma ve sve chaloupce;;Najdi maliny a nasbírej je;23;na sever ;34;na východ;32;na západ;;;;
+33;jsi doma ve sve chaloupce;chaloupka_doma2.png;Najdi maliny a nasbírej je;23;na sever ;34;na východ;32;na západ;;;;
 23;jsi na louce;paseka.png;kam chceš jít dál;13;na sever ;33;na jih;22;na západ;;;;
 32;jsi na louce;paseka.png;kam chceš jít dál;22;na sever ;33;na východ;;;;;;
 34;jsi v lese;les.png;kam chceš jít dál;35;na východ;33;na západ;;;;;;
@@ -31,16 +31,16 @@
 246;Jsi v lese;les.png;Kam chceš jít dál;356;na jih;245;na západ;;;;;;
 354;Jsi v lese;les.png;Kam chceš jít dál;244;na sever ;355;na východ;;;;;;
 355;Jsi v lese;les.png;Kam chceš jít dál;245;na sever ;356;na východ;354;na západ;;;;
-356;Jsi na pasece u perníkové chaloupky;chaloupka.png;Je tma a jsi unavený, můžeš jít dovnitř, nebo jít jinam;246;na sever ;355;na západ;801;Jít dovnitř;;;;
+356;Jsi na pasece u perníkové chaloupky;pernchalupka2.png;Je tma a jsi unavený, můžeš jít dovnitř, nebo jít jinam;246;na sever ;355;na západ;801;Jít dovnitř;;;;
 801;V perníkové chaloupce;;V perníkové chaloupce byla bába, ta tě začala krmit, jen co jsi vešel do dveří, když jsi jedl zatopila v kamnech. Už jsi se najedl dost a bába chce, aby jsi si sednul na lopatu před pecí;802;Sednout si;804;Zeptat se: ,, jak si na ní mám sednout?”;;;;;;
 802;Zemřel jsi;;Bába tě v peci upekla, chceš začít znovu?;33;Začít znovu;;;;;;;;
 804;V perníkové chaloupce;;Bába si na lopatu neochotně sedla a řekla: ,,takhle.” Co uděláš?;801;Řeknu ,,Už vím”;805;Hodit bábu do pece;;;;;;
 805;V perníkové chaloupce;;Bába shořela v peci, můžeš jít ven;456;Jít ven;;;;;;;;
-456;Jsi na pasece u perníkové chaloupky;chaloupka.png;Celý den jsi nebyl doma, běž domů;446;na sever ;455;na západ;;;;;;
+456;Jsi na pasece u perníkové chaloupky;pernchalupka den2.png;Celý den jsi nebyl doma, běž domů;446;na sever ;455;na západ;;;;;;
 455;Jsi v lese;les.png;Kam chceš jít dál;445;na sever ;456;na východ;454;na západ;;;;
 454;Jsi v lese;les.png;Kam chceš jít dál;444;na sever ;455;na východ;453;na západ;;;;
-453;Jsi na louce se studnou;;Chceš si prohlédnout studnu, nebo jít dál;443;na sever ;454;na východ;452;na západ;1101;Podívat se na studnu;;
-1101;Jsi u studny;;Studna vyschla;453;jít pryč;;;;;;;;
+453;Jsi na louce se studnou;studna2.png;Chceš si prohlédnout studnu, nebo jít dál;443;na sever ;454;na východ;452;na západ;1101;Podívat se na studnu;;
+1101;Jsi u studny;studna_pohled_dovnitr2.png;Studna vyschla;453;jít pryč;;;;;;;;
 452;jsi na louce;paseka.png;Kam chceš jít dál;42;na sever ;453;na východ;;;;;;
 42;Jsi na louce;paseka.png;Něco se ti tu nezdá, chceš se po tom poohlédnout, nebo jít pryč;432;na sever ;452;na jih;443;na východ;4242;Poohlédnout se tu;;
 4242;Jsi na louce;paseka.png;Gratuluji našel jsi velikonoční vajíčko, je na něm napsáno #osmimístnýkód, ;42;jít pryč;;;;;;;;
@@ -51,7 +51,7 @@
 436;Jsi v lese;les.png;Kam chceš jít dál;426;na sever ;446;na jih;435;na západ;;;;
 435;Jsi v lese;les.png;Kam chceš jít dál;425;na sever ;445;na jih;436;na východ;434;na západ;;
 434;Jsi v lese;les.png;Kam chceš jít dál;444;na jih;435;na východ;433;na západ;;;;
-433;Jsi doma ve své chaloupce;;Gratuluji dokončil jsi mou hru, jestli chceš můžeš prozkoumat zbytek světa;423;na sever ;443;na jih;434;na východ;432;na západ;;
+433;Jsi doma ve své chaloupce;chaloupka_doma2.png;Gratuluji dokončil jsi mou hru, jestli chceš můžeš prozkoumat zbytek světa;423;na sever ;443;na jih;434;na východ;432;na západ;;
 432;Jsi na louce;paseka.png;Kam chceš jít dál;422;na sever ;42;na jih;433;na západ;;;;
 422;jsi u řeky;;Kam chceš jít dál;412;na sever ;432;na jih;423;na východ;;;;
 423;Jsi na louce;paseka.png;Kam chceš jít dál;413;na sever ;433;na jih;422;na západ;;;;
