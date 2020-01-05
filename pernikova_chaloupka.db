@@ -15,7 +15,7 @@
 135;Jsi v lese;les.png;kam chceš jít dál;125;na sever ;145;na jih;136;na východ;134;na západ;;
 136;Jsi v lese;les.png;kam chceš jít dál;126;na sever ;146;na jih;135;na západ;;;;
 144;Jsi v lese;les.png;kam chceš jít dál;134;na sever ;145;na východ;;;;;;
-145;Jsi na pasece u vysokého stromu;;Můžeš na něj vylézt, ale když spadneš z velké výšky můžes si ublížit, nebo můžeš jít jinam;135;na sever ;146;na východ;144;na západ;901;Vylézt na strom;;
+145;Jsi na pasece u vysokého stromu;vysokystromnoc.png;Můžeš na něj vylézt, ale když spadneš z velké výšky můžes si ublížit, nebo můžeš jít jinam;135;na sever ;146;na východ;144;na západ;901;Vylézt na strom;;
 146;Jsi v lese;les.png;Kam chceš jít dál;136;na sever ;145;na západ;;;;;;
 901;Lezeš na strom ;;Vyber větev na kterou půjdeš;903;levá;902;pravá;;;;;;
 903;Spadl jsi;;Nic se ti nestalo, můžeš lézt dál;901;lézt dál;;;;;;;;
@@ -26,7 +26,7 @@
 999;Spadl jsi z velké výšky;;Spadl jsi z velké výšky a omdlel jsi, chceš začít znovu;33;Začít znovu;;;;;;;;
 909;Vylezl jsi úplně nahoru;;Můžes se rozhlédnout;910;Rozhlédnout se;;;;;;;;
 910;Uviděl jsi světélko;;Kousek od tebe jsi viděl světélko, slez dolů a běž tam;245;Slézt dolů;;;;;;;;
-245;Slezl jsi ze stromu;;Běž najít světélko;355;na jih;246;na východ;244;na západ;;;;
+245;Slezl jsi ze stromu;vysokystromnoc.png;Běž najít světélko;355;na jih;246;na východ;244;na západ;;;;
 244;Jsi v lese;les.png;Kam chceš jít dál;354;na jih;355;na východ;;;;;;
 246;Jsi v lese;les.png;Kam chceš jít dál;356;na jih;245;na západ;;;;;;
 354;Jsi v lese;les.png;Kam chceš jít dál;244;na sever ;355;na východ;;;;;;
@@ -47,19 +47,19 @@
 443;Jsi na louce;paseka.png;Kam chceš jít dál;433;na sever ;453;na jih;444;na východ;42;na západ;;
 444;Jsi v lese s vlkem ;;Můžeš ho pohladit, nebo jít dál;434;na sever ;454;na jih;445;na východ;443;na západ;1106;pohladit vlka
 1106;Zemřel jsi;;Vlk tě sežral;33;Začít znovu;;;;;;;;
-445;Jsi na pasece s vysokým stromem;;Kam chceš jít dál;435;na sever ;455;na jih;446;na východ;444;na západ;;
+445;Jsi na pasece s vysokým stromem;vysokystrom.png;Kam chceš jít dál;435;na sever ;455;na jih;446;na východ;444;na západ;;
 436;Jsi v lese;les.png;Kam chceš jít dál;426;na sever ;446;na jih;435;na západ;;;;
 435;Jsi v lese;les.png;Kam chceš jít dál;425;na sever ;445;na jih;436;na východ;434;na západ;;
 434;Jsi v lese;les.png;Kam chceš jít dál;444;na jih;435;na východ;433;na západ;;;;
 433;Jsi doma ve své chaloupce;chaloupka_doma2.png;Gratuluji dokončil jsi mou hru, jestli chceš můžeš prozkoumat zbytek světa;423;na sever ;443;na jih;434;na východ;432;na západ;;
 432;Jsi na louce;paseka.png;Kam chceš jít dál;422;na sever ;42;na jih;433;na západ;;;;
-422;jsi u řeky;;Kam chceš jít dál;412;na sever ;432;na jih;423;na východ;;;;
+422;jsi u řeky;reka.png;Kam chceš jít dál;412;na sever ;432;na jih;423;na východ;;;;
 423;Jsi na louce;paseka.png;Kam chceš jít dál;413;na sever ;433;na jih;422;na západ;;;;
 425;jsi na pasece rostou tu maliny;;Kam chceš jít dál;415;na sever ;435;na jih;426;na východ;;;;
 416;Jsi v lese;les.png;Kam chceš jít dál;426;na jih;415;na západ;;;;;;
 415;Jsi v lese;les.png;Kam chceš jít dál;425;na jih;416;na východ;414;na západ;;;;
 414;Jsi v lese;les.png;Kam chceš jít dál;415;na východ;413;na západ;;;;;;
 413;Jsi na louce;paseka.png;Kam chceš jít dál;423;na jih;414;na východ;412;na západ;;;;
-412;Jsi u řeky;;Kam chceš jít dál;422;na jih;413;na východ;;;;;;
+412;Jsi u řeky;reka.png;Kam chceš jít dál;422;na jih;413;na východ;;;;;;
 446;Jsi v lese;les.png;Kam chceš jít dál;436;na sever ;456;na jih;445;západ;;;;
 426;Jsi v lese;les.png;Kam chceš jít dál;416;na sever ;436;na jih;425;západ;;;;
