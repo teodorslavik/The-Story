@@ -3,8 +3,8 @@
 32;jsi na louce;paseka.png;kam chceš jít dál;22;na sever ;33;na východ;;;;;;
 34;jsi v lese;les.png;kam chceš jít dál;35;na východ;33;na západ;;;;;;
 13;jsi na louce;paseka.png;kam chceš jít dál;23;na jih;14;na východ;12;na západ;;;;
-22;jsi u řeky;;kam chceš jít dál ;12;na sever ;32;na jih;23;na východ;;;;
-12;jsi u řeky;;kam chceš jít dál;22;na jih;13;na východ;;;;;;
+22;jsi u řeky;reka.png;kam chceš jít dál ;12;na sever ;32;na jih;23;na východ;;;;
+12;jsi u řeky;reka.png;kam chceš jít dál;22;na jih;13;na východ;;;;;;
 14;jsi v lese;les.png;kam chceš jít dál;15;na východ;13;na západ;;;;;;
 15;jsi v lese;les.png;kam chceš jít dál;25;na jih;14;na západ;;;;;;
 25;jsi na pasece rostou tu maliny;;Sesbírej maliny, nebo běž jinam;15;na sever ;35;na jih;125;Sbírat maliny;;;;
