@@ -1,8 +1,7 @@
 <?php
-
+header("Content-Type: text/html; charset=ISO-8859-2");
 $soubor=fopen("pernikova_chaloupka.db", "r");
 $title = "Příběh";
-header("Content-Type: text/html; charset=ISO-8859-2");
 
 echo ("<html>" .
        "<head>" .   
