@@ -13,7 +13,6 @@ $prom1 = $_GET["prom1"];
 if($prom1 == null) {
 $prom1 = 33;
 }
-//echo ("$prom1");
 
 while (!feof ($soubor)&&$pole[0]!=$prom1) {
 $text = fgets($soubor, 1000);
