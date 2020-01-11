@@ -2,9 +2,9 @@
 
 $soubor=fopen("pernikova_chaloupka.db", "r");
 $title = "Příběh";
+mb_internal_encoding(ISO-8859-2)
 
 echo ("<html>" .
-	   "<meta charset=/"ISO-8859-2/">
        "<head>" .   
        "<title>$title</title>" .
        "</head>" .
