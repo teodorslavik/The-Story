@@ -1,8 +1,8 @@
 <?php
 header("Content-Type: text/html; charset=ISO-8859-2");
 $soubor=fopen("pernikova_chaloupka.db", "r");
-$title = "Příběh";
-//$title = mb_check_encoding("Příběh", "ISO-8859-2");
+//$title = "Příběh";
+$title = mb_convert_encoding("Příběh", "ISO-8859-2");
 
 echo ("<html>" .
        "<head>" .   
@@ -10,7 +10,7 @@ echo ("<html>" .
        "</head>" .
        "<body>");
 echo ("$title");
-echo (mb_detect_encoding($title));
+//echo (mb_detect_encoding($title));
 //$prom1 = 1;
 $prom1 = $_GET["prom1"];
 if($prom1 == null) {
