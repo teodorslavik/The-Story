@@ -4,6 +4,7 @@ $soubor=fopen("pernikova_chaloupka.db", "r");
 $title = "Příběh";
 
 echo ("<html>" .
+	   "<meta charset=/"ISO-8859-2/">
        "<head>" .   
        "<title>$title</title>" .
        "</head>" .
