@@ -4,7 +4,7 @@ $soubor=fopen("pernikova_chaloupka.db", "r");
 $title = mb_convert_encoding("Příběh", "ISO-8859-2");
 
 echo ("<html>" .
-       "<head>" .   
+       "<head>" .
        "<title>$title</title>" .
        "</head>" .
        "<body>");
@@ -44,5 +44,4 @@ echo ("</body>" .
        "</html>");
 
 fclose($soubor);
-
 ?>
