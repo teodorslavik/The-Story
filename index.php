@@ -1,7 +1,7 @@
 <?php
 
 $soubor=fopen("pernikova_chaloupka.db", "r");
-$title = "pernikova chaloupka"; 
+$title = "Příběh";
 
 echo ("<html>" .
        "<head>" .   
