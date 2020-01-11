@@ -2,7 +2,7 @@
 
 $soubor=fopen("pernikova_chaloupka.db", "r");
 $title = "Příběh";
-mb_internal_encoding(iso-8859-2);
+header("Content-Type: text/html; charset=ISO-8859-2");
 
 echo ("<html>" .
        "<head>" .   
@@ -47,5 +47,5 @@ echo ("</body>" .
        "</html>");
 
 fclose($soubor);
-echo mb_internal_encoding();
+
 ?>
