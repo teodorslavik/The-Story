@@ -9,7 +9,7 @@ echo ("<html>" .
        "<title>$title</title>" .
        "</head>" .
        "<body>");
-
+echo ("$title");
 //$prom1 = 1;
 $prom1 = $_GET["prom1"];
 if($prom1 == null) {
