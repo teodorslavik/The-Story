@@ -1,65 +1,65 @@
-33,jsi doma ve své chaloupce,chaloupka_doma2.png,Najdi maliny a nasbírej je,23,na sever ,34,na vıchod,32,na západ,,,,
-23,jsi na louce,paseka.png,kam chceš jít dál,13,na sever ,33,na jih,22,na západ,,,,
-32,jsi na louce,paseka.png,kam chceš jít dál?,22,na sever ,33,na vıchod,,,,,,
-34,jsi v lese,les.png,kam chceš jít dál?,35,na vıchod,33,na západ,,,,,,
-13,jsi na louce,paseka.png,kam chceš jít dál?,23,na jih,14,na vıchod,12,na západ,,,,
-22,jsi u ?eky,reka.png,kam chceš jít dál? ,12,na sever ,32,na jih,23,na vıchod,,,,
-12,jsi u ?eky,reka.png,kam chceš jít dál?,22,na jih,13,na vıchod,,,,,,
-14,jsi v lese,les.png,kam chceš jít dál?,15,na vıchod,13,na západ,,,,,,
-15,jsi v lese,les.png,kam chceš jít dál?,25,na jih,14,na západ,,,,,,
-25,jsi na pasece rostou tu maliny,,"Sesbí­rej maliny, nebo b? jinam",15,na sever ,35,na jih,125,Sbí­rat maliny,,,,
-35,jsi v lese ,les.png,kam chceš jít dál?,25,na sever ,34,na západ,,,,,,
-125,jsi na pasece rostou tu maliny,,"Setm?lo se a ty nevíš kudy dom?, kam chceš jít dál?",135,na jih,126,na vıchod,,,,,,
-126,Jsi v lese ,les.png,kam chceš jít dál?,136,na jih,125,na západ,,,,,,
-134,Jsi v lese,les.png,kam chceš jít dál?,144,na jih,135,na vıchod,,,,,,
-135,Jsi v lese,les.png,kam chceš jít dál?,125,na sever ,145,na jih,136,na vıchod,134,na západ,,
-136,Jsi v lese,les.png,kam chceš jít dál?,126,na sever ,146,na jih,135,na západ,,,,
-144,Jsi v lese,les.png,kam chceš jít dál?,134,na sever ,145,na vıchod,,,,,,
-145,Jsi na pasece u vysokého stromu,vysokystromnoc.png,"M?eš na n?j vylézt, ale kdy spadneš z velké vıšky m?es si ublíit, nebo m?eš jí­t jinam",135,na sever ,146,na vıchod,144,na západ,901,Vylézt na strom,,
-146,Jsi v lese,les.png,kam chceš jít dál?,136,na sever ,145,na západ,,,,,,
-901,Lezeš na strom ,,Vyber v?tev na kterou p?jdeš,903,levá,902,pravá,,,,,,
-903,Spadl jsi,,"Nic se ti nestalo, m?eš lézt dál",901,lézt dál,,,,,,,,
-902,Lezeš na strom ,,Vyber další­ v?tev na kterou p?jdeš,903,levá,904,pravá,,,,,,
-904,Lezeš na strom ,,Vyber další­ v?tev na kterou p?jdeš,905,levá,906,pravá,,,,,,
-906,Spadl jsi o v?tev ní,,"Nic se ti nestalo, m?eš lézt dál",904,lézt dál,,,,,,,,
-905,Lezeš na strom ,,Vyber další­ v?tev na kterou p?jdeš,999,levá,909,pravá,,,,,,
-999,Spadl jsi z velké vıšky,,"Spadl jsi z velké vıšky a omdlel jsi, chceš za?ít­t znovu",33,Za?í­t znovu,,,,,,,,
-909,Vylezl jsi ú?pln? nahoru,,M?es se rozhlédnout,910,Rozhl?Šdnout se,,,,,,,,
-910,Uvid?l jsi sv?télko,,"Kousek od tebe jsi vid?l sv?télko, slez dol? a b? tam",245,Slézt dol?,,,,,,,,
-245,Slezl jsi ze stromu,vysokystromnoc.png,B? nají­t sv?télko,355,na jih,246,na vıchod,244,na západ,,,,
-244,Jsi v lese,les.png,kam chceš jít dál?,354,na jih,355,na vıchod,,,,,,
-246,Jsi v lese,les.png,kam chceš jít dál?,356,na jih,245,na západ,,,,,,
-354,Jsi v lese,les.png,kam chceš jít dál?,244,na sever ,355,na vıchod,,,,,,
-355,Jsi v lese,les.png,kam chceš jít dál?,245,na sever ,356,na vıchod,354,na západ,,,,
-356,Jsi na pasece u perníkové chaloupky,pernchalupka2.png,"Je tma a jsi unavenı, m?eš jí­t dovnit?, nebo jí­t jinam",246,na sever ,355,na západ,801,Jí­t dovnit??,,,,
-801,V perníkové chaloupce,,"V perníkové chaloupce byla bába, ta t? za?ala krmit, jen co jsi vešel do dve?í, kdy jsi jedl zatopila v kamnech. U jsi se najedl dost a bába chce, aby jsi si sednul na lopatu p?ed pecí­",802,Sednout si,804,"Zeptat se: ,, jak si na ní­ mám sednout?”",,,,,,
-802,Zem?el jsi,,"Bába t? v peci upekla, chceš za?í­t znovu?",33,Za?í­t znovu,,,,,,,,
-804,V perníkové chaloupce,,"Bába si na lopatu neochotn? sedla a ?ekla: ,,takhle.” Co ud?láš?",801,"?eknu ,,U vím”",805,Hodit bábu do pece,,,,,,
-805,V perníkové chaloupce,,"Bába sho?ela v peci, m?eš jí­t ven",456,J?­t ven,,,,,,,,
-456,Jsi na pasece u perní­kové chaloupky,Pernchalupkaden2.png,"Celı den jsi nebyl doma, b? dom?",446,na sever ,455,na západ,,,,,,
-455,Jsi v lese,les.png,kam chceš jít dál?,445,na sever ,456,na vıchod,454,na západ,,,,
-454,Jsi v lese,les.png,kam chceš jít dál?,444,na sever ,455,na vıchod,453,na západ,,,,
-453,Jsi na louce se studnou,studna2.png,"Chceš si prohlédnout studnu, nebo jít dál",443,na sever ,454,na vıchod,452,na západ,1101,Podí­vat se na studnu,,
-1101,Jsi u studny,studna_pohled_dovnitr2.png,Studna vyschla,453,jít pry?,,,,,,,,
-452,jsi na louce,paseka.png,kam chceš jít dál?,42,na sever ,453,na vıchod,,,,,,
-42,Jsi na louce,paseka.png,"N?co se ti tu nezdá, chceš se po tom poohlédnout, nebo jí­t pry???",432,na sever ,452,na jih,443,na vıchod,4242,Poohlédnout se tu,,
-4242,Jsi na louce,paseka.png,"Gratuluji našel jsi velikono?ní­ vají?ko, je na n?m napsáno #osmnáctimí­stnıkód, ",42,jít pry?,,,,,,,,
-443,Jsi na louce,paseka.png,kam chceš jít dál?,433,na sever ,453,na jih,444,na vıchod,42,na západ,,
-444,Jsi v lese s vlkem ,,"M?eš ho pohladit, nebo jí­t dál",434,na sever ,454,na jih,445,na vıchod,443,na západ,1106,pohladit vlka
-1106,Zem?el jsi,,Vlk t? seral,33,Za?í­t znovu,,,,,,,,
-445,Jsi na pasece s vysokım stromem,vysokystrom.png,kam chceš jít dál?,435,na sever ,455,na jih,446,na vıchod,444,na západ,,
-436,Jsi v lese,les.png,kam chceš jít dál?,426,na sever ,446,na jih,435,na západ,,,,
-435,Jsi v lese,les.png,kam chceš jít dál?,425,na sever ,445,na jih,436,na vıchod,434,na západ,,
-434,Jsi v lese,les.png,kam chceš jít dál?,444,na jih,435,na vıchod,433,na západ,,,,
-433,jsi doma ve své chaloupce,chaloupka_doma2.png,"Gratuluji dokon?il/la jsi mou hru, jestli chceš m?eš prozkoumat zbytek sv?ta",423,na sever ,443,na jih,434,na vıchod,432,na západ,,
-432,Jsi na louce,paseka.png,kam chceš jít dál?,422,na sever ,42,na jih,433,na západ,,,,
-422,jsi u ?eky,reka.png,kam chceš jít dál?,412,na sever ,432,na jih,423,na vıchod,,,,
-423,Jsi na louce,paseka.png,kam chceš jít dál?,413,na sever ,433,na jih,422,na západ,,,,
-425,jsi na pasece rostou tu maliny,,kam chceš jít dál?,415,na sever ,435,na jih,426,na vıchod,,,,
-416,Jsi v lese,les.png,kam chceš jít dál?,426,na jih,415,na západ,,,,,,
-415,Jsi v lese,les.png,kam chceš jít dál?,425,na jih,416,na vıchod,414,na západ,,,,
-414,Jsi v lese,les.png,kam chceš jít dál?,415,na vıchod,413,na západ,,,,,,
-413,Jsi na louce,paseka.png,kam chceš jít dál?,423,na jih,414,na vıchod,412,na západ,,,,
-412,jsi u ?eky,reka.png,kam chceš jít dál?,422,na jih,413,na vıchod,,,,,,
-446,Jsi v lese,les.png,kam chceš jít dál?,436,na sever ,456,na jih,445,na západ,,,,
-426,Jsi v lese,les.png,kam chceš jít dál?,416,na sever ,436,na jih,425,na západ,,,,
+33;jsi doma ve svÃ© chaloupce;chaloupka_doma2.png;Najdi maliny a nasbÃ­rej je;23;na sever ;34;na vÃ½chod;32;na zÃ¡pad;;;;
+23;jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l;13;na sever ;33;na jih;22;na zÃ¡pad;;;;
+32;jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l?;22;na sever ;33;na vÃ½chod;;;;;;
+34;jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;35;na vÃ½chod;33;na zÃ¡pad;;;;;;
+13;jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l?;23;na jih;14;na vÃ½chod;12;na zÃ¡pad;;;;
+22;jsi u Å™eky;reka.png;kam chceÅ¡ jÃ­t dÃ¡l? ;12;na sever ;32;na jih;23;na vÃ½chod;;;;
+12;jsi u Å™eky;reka.png;kam chceÅ¡ jÃ­t dÃ¡l?;22;na jih;13;na vÃ½chod;;;;;;
+14;jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;15;na vÃ½chod;13;na zÃ¡pad;;;;;;
+15;jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;25;na jih;14;na zÃ¡pad;;;;;;
+25;jsi na pasece rostou tu maliny;;SesbÃ­Â­rej maliny, nebo bÄ›Å¾ jinam;15;na sever ;35;na jih;125;SbÃ­Â­rat maliny;;;;
+35;jsi v lese ;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;25;na sever ;34;na zÃ¡pad;;;;;;
+125;jsi na pasece rostou tu maliny;;SetmÄ›lo se a ty nevÃ­Å¡ kudy domÅ¯, kam chceÅ¡ jÃ­t dÃ¡l?;135;na jih;126;na vÃ½chod;;;;;;
+126;Jsi v lese ;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;136;na jih;125;na zÃ¡pad;;;;;;
+134;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;144;na jih;135;na vÃ½chod;;;;;;
+135;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;125;na sever ;145;na jih;136;na vÃ½chod;134;na zÃ¡pad;;
+136;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;126;na sever ;146;na jih;135;na zÃ¡pad;;;;
+144;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;134;na sever ;145;na vÃ½chod;;;;;;
+145;Jsi na pasece u vysokÃ©ho stromu;vysokystromnoc.png;MÅ¯Å¾eÅ¡ na nÄ›j vylÃ©zt, ale kdyÅ¾ spadneÅ¡ z velkÃ© vÃ½Å¡ky mÅ¯Å¾es si ublÃ­Å¾it, nebo mÅ¯Å¾eÅ¡ jÃ­Â­t jinam;135;na sever ;146;na vÃ½chod;144;na zÃ¡pad;901;VylÃ©zt na strom;;
+146;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;136;na sever ;145;na zÃ¡pad;;;;;;
+901;LezeÅ¡ na strom ;;Vyber vÄ›tev na kterou pÅ¯jdeÅ¡;903;levÃ¡;902;pravÃ¡;;;;;;
+903;Spadl jsi;;Nic se ti nestalo, mÅ¯Å¾eÅ¡ lÃ©zt dÃ¡l;901;lÃ©zt dÃ¡l;;;;;;;;
+902;LezeÅ¡ na strom ;;Vyber dalÅ¡Ã­Â­ vÄ›tev na kterou pÅ¯jdeÅ¡;903;levÃ¡;904;pravÃ¡;;;;;;
+904;LezeÅ¡ na strom ;;Vyber dalÅ¡Ã­Â­ vÄ›tev na kterou pÅ¯jdeÅ¡;905;levÃ¡;906;pravÃ¡;;;;;;
+906;Spadl jsi o vÄ›tev nÃ­Å¾;;Nic se ti nestalo, mÅ¯Å¾eÅ¡ lÃ©zt dÃ¡l;904;lÃ©zt dÃ¡l;;;;;;;;
+905;LezeÅ¡ na strom ;;Vyber dalÅ¡Ã­Â­ vÄ›tev na kterou pÅ¯jdeÅ¡;999;levÃ¡;909;pravÃ¡;;;;;;
+999;Spadl jsi z velkÃ© vÃ½Å¡ky;;Spadl jsi z velkÃ© vÃ½Å¡ky a omdlel jsi, chceÅ¡ zaÄÃ­tÂ­t znovu;33;ZaÄÃ­Â­t znovu;;;;;;;;
+909;Vylezl jsi ÃºÅŸplnÄ› nahoru;;MÅ¯Å¾es se rozhlÃ©dnout;910;RozhlÄ‚Å dnout se;;;;;;;;
+910;UvidÄ›l jsi svÄ›tÃ©lko;;Kousek od tebe jsi vidÄ›l svÄ›tÃ©lko, slez dolÅ¯ a bÄ›Å¾ tam;245;SlÃ©zt dolÅ¯;;;;;;;;
+245;Slezl jsi ze stromu;vysokystromnoc.png;BÄ›Å¾ najÃ­Â­t svÄ›tÃ©lko;355;na jih;246;na vÃ½chod;244;na zÃ¡pad;;;;
+244;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;354;na jih;355;na vÃ½chod;;;;;;
+246;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;356;na jih;245;na zÃ¡pad;;;;;;
+354;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;244;na sever ;355;na vÃ½chod;;;;;;
+355;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;245;na sever ;356;na vÃ½chod;354;na zÃ¡pad;;;;
+356;Jsi na pasece u pernÃ­kovÃ© chaloupky;pernchalupka2.png;Je tma a jsi unavenÃ½, mÅ¯Å¾eÅ¡ jÃ­Â­t dovnitÅ™, nebo jÃ­Â­t jinam;246;na sever ;355;na zÃ¡pad;801;JÃ­Â­t dovnitÅ™Â™;;;;
+801;V pernÃ­kovÃ© chaloupce;;V pernÃ­kovÃ© chaloupce byla bÃ¡ba, ta tÄ› zaÄala krmit, jen co jsi veÅ¡el do dveÅ™Ã­, kdyÅ¾ jsi jedl zatopila v kamnech. UÅ¾ jsi se najedl dost a bÃ¡ba chce, aby jsi si sednul na lopatu pÅ™ed pecÃ­Â­;802;Sednout si;804;Zeptat se: ,, jak si na nÃ­Â­ mÃ¡m sednout?â€;;;;;;
+802;ZemÅ™el jsi;;BÃ¡ba tÄ› v peci upekla, chceÅ¡ zaÄÃ­Â­t znovu?;33;ZaÄÃ­Â­t znovu;;;;;;;;
+804;V pernÃ­kovÃ© chaloupce;;BÃ¡ba si na lopatu neochotnÄ› sedla a Å™ekla: ,,takhle.â€ Co udÄ›lÃ¡Å¡?;801;Å™eknu ,,UÅ¾ vÃ­mâ€;805;Hodit bÃ¡bu do pece;;;;;;
+805;V pernÃ­kovÃ© chaloupce;;BÃ¡ba shoÅ™ela v peci, mÅ¯Å¾eÅ¡ jÃ­Â­t ven;456;JÄ‚Â­t ven;;;;;;;;
+456;Jsi na pasece u pernÃ­Â­kovÃ© chaloupky;Pernchalupkaden2.png;CelÃ½ den jsi nebyl doma, bÄ›Å¾ domÅ¯;446;na sever ;455;na zÃ¡pad;;;;;;
+455;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;445;na sever ;456;na vÃ½chod;454;na zÃ¡pad;;;;
+454;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;444;na sever ;455;na vÃ½chod;453;na zÃ¡pad;;;;
+453;Jsi na louce se studnou;studna2.png;ChceÅ¡ si prohlÃ©dnout studnu, nebo jÃ­t dÃ¡l;443;na sever ;454;na vÃ½chod;452;na zÃ¡pad;1101;PodÃ­Â­vat se na studnu;;
+1101;Jsi u studny;studna_pohled_dovnitr2.png;Studna vyschla;453;jÃ­t pryÄ;;;;;;;;
+452;jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l?;42;na sever ;453;na vÃ½chod;;;;;;
+42;Jsi na louce;paseka.png;NÄ›co se ti tu nezdÃ¡, chceÅ¡ se po tom poohlÃ©dnout, nebo jÃ­Â­t pryÄ?Â;432;na sever ;452;na jih;443;na vÃ½chod;4242;PoohlÃ©dnout se tu;;
+4242;Jsi na louce;paseka.png;Gratuluji naÅ¡el jsi velikonoÄnÃ­Â­ vajÃ­Äko, je na nÄ›m napsÃ¡no #osmnÃ¡ctimÃ­Â­stnÃ½kÃ³d, ;42;jÃ­t pryÄ;;;;;;;;
+443;Jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l?;433;na sever ;453;na jih;444;na vÃ½chod;42;na zÃ¡pad;;
+444;Jsi v lese s vlkem ;;MÅ¯Å¾eÅ¡ ho pohladit, nebo jÃ­Â­t dÃ¡l;434;na sever ;454;na jih;445;na vÃ½chod;443;na zÃ¡pad;1106;pohladit vlka
+1106;ZemÅ™el jsi;;Vlk tÄ› seÅ¾ral;33;ZaÄÃ­Â­t znovu;;;;;;;;
+445;Jsi na pasece s vysokÃ½m stromem;vysokystrom.png;kam chceÅ¡ jÃ­t dÃ¡l?;435;na sever ;455;na jih;446;na vÃ½chod;444;na zÃ¡pad;;
+436;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;426;na sever ;446;na jih;435;na zÃ¡pad;;;;
+435;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;425;na sever ;445;na jih;436;na vÃ½chod;434;na zÃ¡pad;;
+434;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;444;na jih;435;na vÃ½chod;433;na zÃ¡pad;;;;
+433;jsi doma ve svÃ© chaloupce;chaloupka_doma2.png;Gratuluji dokonÄil/la jsi mou hru, jestli chceÅ¡ mÅ¯Å¾eÅ¡ prozkoumat zbytek svÄ›ta;423;na sever ;443;na jih;434;na vÃ½chod;432;na zÃ¡pad;;
+432;Jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l?;422;na sever ;42;na jih;433;na zÃ¡pad;;;;
+422;jsi u Å™eky;reka.png;kam chceÅ¡ jÃ­t dÃ¡l?;412;na sever ;432;na jih;423;na vÃ½chod;;;;
+423;Jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l?;413;na sever ;433;na jih;422;na zÃ¡pad;;;;
+425;jsi na pasece rostou tu maliny;;kam chceÅ¡ jÃ­t dÃ¡l?;415;na sever ;435;na jih;426;na vÃ½chod;;;;
+416;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;426;na jih;415;na zÃ¡pad;;;;;;
+415;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;425;na jih;416;na vÃ½chod;414;na zÃ¡pad;;;;
+414;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;415;na vÃ½chod;413;na zÃ¡pad;;;;;;
+413;Jsi na louce;paseka.png;kam chceÅ¡ jÃ­t dÃ¡l?;423;na jih;414;na vÃ½chod;412;na zÃ¡pad;;;;
+412;jsi u Å™eky;reka.png;kam chceÅ¡ jÃ­t dÃ¡l?;422;na jih;413;na vÃ½chod;;;;;;
+446;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;436;na sever ;456;na jih;445;na zÃ¡pad;;;;
+426;Jsi v lese;les.png;kam chceÅ¡ jÃ­t dÃ¡l?;416;na sever ;436;na jih;425;na zÃ¡pad;;;;
