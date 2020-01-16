@@ -15,7 +15,7 @@ $prom1 = 33;
 }
 
 while (!feof ($soubor)&&$pole[0]!=$prom1) {
-$text = fgets($soubor, 1000);
+$text = fgets($soubor, 50000);
 $pole=explode(";",$text);
 
 }
