@@ -1,6 +1,6 @@
 <?php
 header("Content-Type: text/html; charset=ISO-8859-2");
-$soubor=fopen("pernikova_chaloupka.db", "r");
+$soubor=fopen("pernikova_chaloupka.db.csv", "r");
 $title = mb_convert_encoding("Příběh", "ISO-8859-2");
 
 echo ("<html>" .
@@ -11,7 +11,7 @@ echo ("<html>" .
 
 $prom1 = $_GET["prom1"];
 if($prom1 == null) {
-$prom1 = 33;
+$prom1 = 9901;
 }
 
 while (!feof ($soubor)&&$pole[0]!=$prom1) {
