@@ -11,9 +11,9 @@
 12;jsi u øeky;reka.png;kam chce¹ jít dál?;22;na jih;13;na východ;;;;;;
 14;jsi v lese;les.png;kam chce¹ jít dál?;15;na východ;13;na západ;;;;;;
 15;jsi v lese;les.png;kam chce¹ jít dál?;25;na jih;14;na západ;;;;;;
-25;jsi na pasece rostou tu maliny;paseka_maliny.png;Sesbí­rej maliny, nebo bì¾ jinam;15;na sever ;35;na jih;125;Sbí­rat maliny;;;;
+25;jsi na pasece rostou tu maliny;paseka_malinyxcf.png;Sesbí­rej maliny, nebo bì¾ jinam;15;na sever ;35;na jih;125;Sbí­rat maliny;;;;
 35;jsi v lese ;les.png;kam chce¹ jít dál?;25;na sever ;34;na západ;;;;;;
-125;jsi na pasece rostou tu maliny;paseka_maliny.png;Setmìlo se a ty neví¹ kudy domù, kam chce¹ jít dál?;135;na jih;126;na východ;;;;;;
+125;jsi na pasece rostou tu maliny;paseka_malinyxcf.png;Setmìlo se a ty neví¹ kudy domù, kam chce¹ jít dál?;135;na jih;126;na východ;;;;;;
 126;Jsi v lese ;les.png;kam chce¹ jít dál?;136;na jih;125;na západ;;;;;;
 134;Jsi v lese;les.png;kam chce¹ jít dál?;144;na jih;135;na východ;;;;;;
 135;Jsi v lese;les.png;kam chce¹ jít dál?;125;na sever ;145;na jih;136;na východ;134;na západ;;
@@ -60,7 +60,7 @@
 432;Jsi na louce;paseka.png;kam chce¹ jít dál?;422;na sever ;42;na jih;433;na západ;;;;
 422;jsi u øeky;reka.png;kam chce¹ jít dál?;412;na sever ;432;na jih;423;na východ;;;;
 423;Jsi na louce;paseka.png;kam chce¹ jít dál?;413;na sever ;433;na jih;422;na západ;;;;
-425;jsi na pasece rostou tu maliny;paseka_maliny.png;kam chce¹ jít dál?;415;na sever ;435;na jih;426;na východ;;;;
+425;jsi na pasece rostou tu maliny;paseka_malinyxcf.png;kam chce¹ jít dál?;415;na sever ;435;na jih;426;na východ;;;;
 416;Jsi v lese;les.png;kam chce¹ jít dál?;426;na jih;415;na západ;;;;;;
 415;Jsi v lese;les.png;kam chce¹ jít dál?;425;na jih;416;na východ;414;na západ;;;;
 414;Jsi v lese;les.png;kam chce¹ jít dál?;415;na východ;413;na západ;;;;;;
