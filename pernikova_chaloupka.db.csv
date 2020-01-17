@@ -36,12 +36,12 @@
 246;Jsi v lese;les.png;kam chce¹ jít dál?;356;na jih;245;na západ;;;;;;
 354;Jsi v lese;les.png;kam chce¹ jít dál?;244;na sever ;355;na východ;;;;;;
 355;Jsi v lese;les.png;kam chce¹ jít dál?;245;na sever ;356;na východ;354;na západ;;;;
-356;Jsi na pasece u perníkové chaloupky;pernchalupka2.png;Je tma a jsi unavený, mù¾e¹ jí­t dovnitø, nebo jí­t jinam;246;na sever ;355;na západ;801;Jí­t dovnitø™;;;;
+356;Jsi na pasece u perníkové chaloupky;pernchalupka 2.png;Je tma a jsi unavený, mù¾e¹ jí­t dovnitø, nebo jí­t jinam;246;na sever ;355;na západ;801;Jí­t dovnitø™;;;;
 801;V perníkové chaloupce;;V perníkové chaloupce byla bába, ta tì zaèala krmit, jen co jsi ve¹el do dveøí, kdy¾ jsi jedl zatopila v kamnech. U¾ jsi se najedl dost a bába chce, aby jsi si sednul na lopatu pøed pecí­;802;Sednout si;804;"Zeptat se: ,, jak si na ní­ mám sednout?""";;;;;;
 802;Zemøel jsi;;Bába tì v peci upekla, chce¹ zaèí­t znovu?;33;Zaèí­t znovu;;;;;;;;
 804;V perníkové chaloupce;;"Bába si na lopatu neochotnì sedla a øekla: ,,takhle."" Co udìlá¹?";801;"øeknu ,,U¾ vím""";805;Hodit bábu do pece;;;;;;
 805;V perníkové chaloupce;;Bába shoøela v peci, mù¾e¹ jí­t ven;456;JÃ­t ven;;;;;;;;
-456;Jsi na pasece u perní­kové chaloupky;Pernchalupkaden2.png;Celý den jsi nebyl doma, bì¾ domù;446;na sever ;455;na západ;;;;;;
+456;Jsi na pasece u perní­kové chaloupky;pernchalupka den2.png;Celý den jsi nebyl doma, bì¾ domù;446;na sever ;455;na západ;;;;;;
 455;Jsi v lese;les.png;kam chce¹ jít dál?;445;na sever ;456;na východ;454;na západ;;;;
 454;Jsi v lese;les.png;kam chce¹ jít dál?;444;na sever ;455;na východ;453;na západ;;;;
 453;Jsi na louce se studnou;studna2.png;Chce¹ si prohlédnout studnu, nebo jít dál;443;na sever ;454;na východ;452;na západ;1101;Podí­vat se na studnu;;
