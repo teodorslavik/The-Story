@@ -1,3 +1,6 @@
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
+;;;;;;;;;;;;;
 9901;Úvod;;Vítej, </br> Pøíbìh je má první hra, je je¹tì v prvotní fázi vývoje, mohou se tu proto vyskytovat poruchy, pokud nìjakou najde¹ øekni mi o ní. </br> Je mo¾né ¾e má hra obèas nebude fungovat, bude to proto¾e provádím update na serveru. </br>I v této høe jsou zpùsoby jak podvádìt, pokud ale bude¹ podvádìt zkazí¹ si zá¾itek ze hry </br> Easter eggy </br> Ve høe jsou Easter eggy, ka¾dý takový Easter egg obsahuje kód. Ten kód zaèíná znakem #. </br> Pokud ho najde¹ a po¹le¹ mi ten kód dostane¹ odmìnu. </br> Odmìnu ani kód k ní prosím nijak ne¹iø, je to urèeno pouze nálezcùm. </br> Pokud na mì nemá¹ kontakt, moje e-mailová adresa je fasterracer01@gmail.com . </br> U¾ij si hru. </br> </br> Fasterracer01;9902;Hrát;;;;;;;;
 9902;Jsi doma;;Je sobota odpoledne a chce¹ se do veèera nìèím zabavit, co bude¹ dìlat?;9903;èíst si kní¾ku;9905;zahrát si hru;;;;;;
 9903;Jsi u knihovny;;Najdi kní¾ku co by jsi chtìl èíst;9904;Prohledat knihovnu;9902;nechci si èíst kní¾ku;;;;;;
@@ -59,7 +62,8 @@
 436;Jsi v lese;les.png;kam chce¹ jít dál?;426;na sever ;446;na jih;435;na západ;;;;
 435;Jsi v lese;les.png;kam chce¹ jít dál?;425;na sever ;445;na jih;436;na východ;434;na západ;;
 434;Jsi v lese;les.png;kam chce¹ jít dál?;444;na jih;435;na východ;433;na západ;;;;
-433;jsi doma ve své chaloupce;chaloupka_doma2.png;Gratuluji dokonèil/la jsi mou hru, jestli chce¹ mù¾e¹ prozkoumat zbytek svìta;423;na sever ;443;na jih;434;na východ;432;na západ;;
+433;Jsi u svého domu;chaloupka_doma2.png;Jsi u svého domu, Chce¹ jít dál?;423;na sever ;443;na jih;434;na východ;432;na západ;9433;jít dovnitø
+9433;Gratuluji;;Dokonèil jsi mou hru ;9904;dál;;;;;;;;
 432;Jsi na louce;paseka.png;kam chce¹ jít dál?;422;na sever ;42;na jih;433;na západ;;;;
 422;jsi u øeky;reka.png;kam chce¹ jít dál?;412;na sever ;432;na jih;423;na východ;;;;
 423;Jsi na louce;paseka.png;kam chce¹ jít dál?;413;na sever ;433;na jih;422;na západ;;;;
@@ -105,7 +109,7 @@
 10031;V zákopu ètvrtá linie;;Nepøátelská dìla dostala pøesnìj¹í polohu zákopù a zaèali je ostøelovat, </br> ètvrtý zákop byl zasa¾en nejvíc, a jedním z obìtí tohoto ostøelování jsi byl ty. </br> </br> </br>;10015;dál;;;;;;;;
 10032;V zákopu pátá linie;;Nepøátelská dìla dostala pøesnìj¹í polohu zákopù a zaèali je ostøelovat, </br> ètvrtý zákop byl zasa¾en nejvíc, dostal jsi se do pátého zákopu, </br> Chce¹ informovat velení, nebo dezertovat? </br> </br>;10033;informovat velení;10036;dezertovat;;;;;;
 10033;V zákopu pátá linie;;Kdy¾ js na velení oznámil napadení a útok nepøátel, pøivolali letecký útok,  </br> a tím boj skonèili, válka tímto skonèila, byl jsi vyznamenán. </br> Pozdìji si zjistil, ¾e i modernìj¹í výzbroj zemí Banána¹tánu, byla mnohem náchilnìj¹í na prach a písek, proto se jim pøeru¹ilo ve¹keré radiové spojení, </br> kulomety vynechávali, zatímco na¹e star¹í, ale spolehlivìj¹í technika, nemìla takové problémy a proto se nám povedlo pøivolat letecký útok. </br>;10034;dál;;;;;;;;
-10034;Gratuluji;;Gratuluji, </br> dokonèil jsi mou hru jedním z mo¾ných koncù. </br> </br> </br>;9905;dál;;;;;;;;
+10034;Gratuluji;;Dokonèil jsi mou hru jedním z mo¾ných koncù. </br> </br> </br> </br>;9905;dál;;;;;;;;
 10036;Odjezd;;Pøi odjezdu z boji¹tì tì zastavili vojáci a za pokus o dezertaci tì zastøelili. </br> </br> </br>;10015;dál;;;;;;;;
 10040;V zákopu tøetí linie;;Dorazil jsi na shroma¾di¹tì vojákù. Velení vám naøídilo útok na nepøátelské linie. </br> Zahájili jste protiútok na vojáky Banána¹tánu, ty jste bez vìt¹ích ztrát zne¹kodnily. </br> Po té jste se vydali do zákopù nepøítele, díky nefungènosti kulometù jste obsadilli první zákop, </br> ale s velkými ztrátami. Posily nepøítele u¾ byly na cestì, </br> Co udìlá¹?;10041;zùstat a bojovat;10042;utéct na druhou stranu zákopu;;;;;;
 10041;V zákopech nepøítele;;Vojáci Banána¹tánu na vás zaútoèili, </br> mìli výraznou pøesilu a znali zákopy, znièili vás. </br> </br> </br>;10015;dál;;;;;;;;
@@ -116,11 +120,12 @@
 10046;V zákopech nepøítele;;No¾em jsi se trefil tìsnì vedle neprùstøelné vesty, </br> do zad nepøítel se zkácel aty jsi mìl mo¾nost ho zastøelit. </br> Kdy¾ bylo po nìm podíval jsi se do zemì, co tam zakopával. Byla to plechová bednièka. </br> Chce¹ ji otevøít? </br>;10047;Ano;10058;Ne;;;;;;
 10047;V zákopech nepøítele;;Byl tam kódovaný nápis #orelpøistál. </br> </br> </br> </br>;10048;dál;;;;;;;;
 10048;V zákopech nepøítele;;Tvému vojsku se  podaøilo uvést do chodu dìla a zaèala bombardovat nepøátelské zákopy. </br> To ti naskytlo pøíle¾itost utéct. Dostal jsi se s¾ do ètvrtého zákopu, </br> kdy¾ tì kovové støepy ranily tak tì dostali ostatní vojáci z boji¹tì proto¾e tì pova¾ovali za nositele tajného kódu. </br> Probral jsi se den po tom co se stalo a pøedal jsi kód velení. </br> Rozsáhlé zranìní a otrava kovy se bohu¾el a¾ moc rozmohla a dal¹í den jsi zemøel. </br> Byl jsi pochován jako hrdina vlasti, který získáním kódu pomohl ukonèit válku.;10049;dál;;;;;;;;
-10049;Gratuluji;;Gratuluji, </br> dokonèil jsi mou hru jedním z mo¾ných koncù. </br> </br> </br>;;;;;;;;;;
+10049;Gratuluji;;Dokonèil jsi mou hru jedním z mo¾ných koncù. </br> </br> </br> </br>;9905;dál;;;;;;;;
 10058;V zákopech nepøítele;;Tvému vojsku se  podaøilo uvést do chodu dìla a zaèala bombardovat nepøátelské zákopy. </br> To ti naskytlo pøíle¾itost utéct. Dostal jsi se s¾ do ètvrtého zákopu, </br> kdy¾ tì kovové støepy ranily tak tì dostali ostatní vojáci z boji¹tì proto¾e tì pova¾ovali za nositele tajného kódu. </br> Rozsáhlé zranìní a otrava kovy se bohu¾el a¾ moc rozmohla a dal¹í den jsi zemøel. </br>;10015;dál;;;;;;;;
 10060;Na bitevním poli;;ylezl jsi na bitevní pole, </br> ¹el jsi smìrem k nepøíteli, najednou vedle tebe vybuch granát, byl dost daleko, aby tì nezabil, ale byl dost blízko aby tì omráèil. </br>  Kdy¾ jsi se probral vidìl jsi vojáky své armády, jak se stahují a zaèínají létat granáty na¹ich dìl, jeden granát trefil první linii zákopu, dal¹í dopadl deset metrù od tebe, </br> nebýt pùdního pøevisu, který tebe a dopady¹tì granátu odìloval, byl by jsi mrtvý. Nemù¾e¹ chodit, mù¾e¹ se jenom plazit. </br> Kam pùjde¹?;10061;zpìt do zákopù;10062;do díry po granátu;;;;;;
 10061;V zákopu první linie;;Kdy¾ jsi se tam doplazil, zaútoèily vojáci Banána¹tánu a skoncovali s tebou </br> </br> </br> </br>;10015;dál;;;;;;;;
 10062;V kráteru po granátu;;Kdy¾ jsi do ní dolezl, mohl jsi zkontrolovat co se ti stalo. </br> Má¹ zlomenou levou nohu a asi otøes mozku. Zmohla tì únava a usnul si. </br> </br> </br>;10063;dál;;;;;;;;
 10063;V kráteru po granátu;;Probral tì nìjaký voják, zalezl za tebou do díry po granátu, </br> je to nepøátelský voják, není ozbrojen a je taky ranìn. </br> Oslovil tì, odpoví¹? </br> </br>;10064;Ano;10065;Ne;;;;;;
-10064;V kráteru po granátu;;Rozmluvili jste se o válce a o rodinì, docela jste se spøatelili. </br> Ale najednou jste zaslechli zvuk padajících bomb.  </br> Pøemý¹lel jsi o svém ¾ivotì a do¹el jsi  k tomu, ¾e stejnì ka¾dý nìjak umøe. </br> </br>;10015;dál;;;;;;;;
+10064;V kráteru po granátu;;Rozmluvili jste se o válce a o rodinì, docela jste se spøatelili. </br> Ale najednou jste zaslechli zvuk padajících bomb.  </br> Pøemý¹lel jsi o svém ¾ivotì a do¹el jsi  k tomu, ¾e stejnì ka¾dý nìjak umøe. </br> </br>;10066;dál;;;;;;;;
 10065;V kráteru po granátu;;Kvùli únavì a zranìním jsi usnul a u¾ jsi se neprobral;10015;dál;;;;;;;;
+10066;Gratuluji;;Dokonèil jsi mou hru jedním z mo¾ných koncù </br> </br> </br> </br>;9905;dál;;;;;;;;
