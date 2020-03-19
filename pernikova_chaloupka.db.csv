@@ -5,7 +5,7 @@
 9902;Jsi doma;;Je sobota odpoledne a chce¹ se do veèera nìèím zabavit, co bude¹ dìlat?;9903;èíst si kní¾ku;9905;zahrát si hru;;;;;;
 9903;Jsi u knihovny;;Najdi kní¾ku co by jsi chtìl èíst;9904;Prohledat knihovnu;9902;nechci si èíst kní¾ku;;;;;;
 9904;Perníková chaloupka;;Na¹el si kní¾ku Perníková chaloupka. Chce¹ si ji pøeèíst?;33;Zaèít èíst;9903;Podívat se po jiné;;;;;;
-9905;Jsi u poèítaèe;;Vyber jakou hru si zahraje¹;10000;Zákopová bitva;;;;;;;;
+9905;Jsi u poèítaèe;;Vyber jakou hru si zahraje¹;10000;Zákopová bitva;9902;nechci hrát hru;;;;;;
 33;jsi doma ve své chaloupce;chaloupka_doma2.png;Najdi maliny a nasbírej je;23;na sever ;34;na východ;32;na západ;;;;
 23;jsi na louce;paseka.png;kam chce¹ jít dál;13;na sever ;33;na jih;22;na západ;;;;
 32;jsi na louce;paseka.png;kam chce¹ jít dál?;22;na sever ;33;na východ;;;;;;
