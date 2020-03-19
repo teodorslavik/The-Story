@@ -50,7 +50,8 @@
 455;Jsi v lese;les.png;kam chce¹ jít dál?;445;na sever ;456;na vıchod;454;na západ;;;;
 454;Jsi v lese;les.png;kam chce¹ jít dál?;444;na sever ;455;na vıchod;453;na západ;;;;
 453;Jsi na louce se studnou;studna2.png;Chce¹ si prohlédnout studnu, nebo jít dál;443;na sever ;454;na vıchod;452;na západ;1101;Podí­vat se na studnu;;
-1101;Jsi u studny;studna_pohled_dovnitr2.png;Studna vyschla;453;jít pryè;;;;;;;;
+1101;Jsi u studny;studna_pohled_dovnitr3.png;Studna vyschla, je u ní papír;453;jít pryè;1102;pøeèíst si papír;;;;;;
+1102;Papír;;Je na nìm hádanka: Studna je vyschlá co je vní?     (Coming soon);1101;Zpìt;;;;;;;;
 452;jsi na louce;paseka.png;kam chce¹ jít dál?;42;na sever ;453;na vıchod;;;;;;
 42;Jsi na louce;paseka.png;Nìco se ti tu nezdá, chce¹ se po tom poohlédnout, nebo jí­t pryè?;432;na sever ;452;na jih;443;na vıchod;4242;Poohlédnout se tu;;
 4242;Jsi na louce;paseka.png;Gratuluji na¹el jsi velikonoèní­ vajíèko, je na nìm napsáno #osmnáctimí­stnıkód, ;42;jít pryè;;;;;;;;
