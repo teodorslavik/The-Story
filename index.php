@@ -26,7 +26,7 @@ $prom1 = 9901;
 }
 */
 
-while (!feof ($soubor)&&$pole[0]!=$prom1) {
+while (!feof ($soubor)&&$pole[0]!=$_SESSION["prom1"]) {
 $text = fgets($soubor, 50000);
 $pole = explode(";",$text);
 
