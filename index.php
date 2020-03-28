@@ -18,7 +18,7 @@ exit;
 $_SESSION["prom1"] = 9901;
 }
 
-echo ("hello world");
+//echo ("hello world");
 /*
 $prom1 = $_GET["prom1"];
 if($prom1 == null) {
@@ -31,14 +31,14 @@ $text = fgets($soubor, 50000);
 $pole = explode(";",$text);
 
 }
-echo ("hello world2");
+//echo ("hello world2");
 echo ("<h1>$pole[1]</h1>");
 echo ("<br />");
 echo ("<img src=\"$pole[2]\">");
 echo ("<br />");
 echo ("<b>$pole[3]</b>");
 echo ("<br />");
-echo ("hello world3");
+//echo ("hello world3");
 /*
 echo ("<br />" .
        "<p><a href=\"index.php?prom1=$pole[4]\">$pole[5]</a></p>" .
@@ -46,14 +46,14 @@ echo ("<br />" .
        "<p><a href=\"index.php?prom1=$pole[8]\">$pole[9]</a></p>" .
        "<p><a href=\"index.php?prom1=$pole[10]\">$pole[11]</a></p>");
 */
-echo ("hello world4");
+//echo ("hello world4");
 $index_pole = 4;
 while ($pole[$index_pole] != null) {
 $index_pole_text = $index_pole + 1;
 echo ("<p><a href=\"index.php?set-prom1=$pole[$index_pole]\">$pole[$index_pole_text]</a></p>"); 
 $index_pole = $index_pole + 2;
 }
-echo ("hello world5");
+//echo ("hello world5");
 
 echo ("</body>" .
        "</html>");
