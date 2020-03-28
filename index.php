@@ -18,7 +18,7 @@ exit;
 $_SESSION["prom1"] = 9901;
 }
 
-
+echo ("hello world");
 /*
 $prom1 = $_GET["prom1"];
 if($prom1 == null) {
