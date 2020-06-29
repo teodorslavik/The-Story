@@ -2,10 +2,11 @@
 ;;;;;;;;;;;;;
 ;;;;;;;;;;;;;
 9901;Úvod;;Vítej, </br> Pøíbìh je má první hra, je je¹tì v prvotní fázi vývoje, mohou se tu proto vyskytovat poruchy, pokud nìjakou najde¹ øekni mi o ní. </br> Je mo¾né ¾e má hra obèas nebude fungovat, bude to proto¾e provádím update na serveru. </br>I v této høe jsou zpùsoby jak podvádìt, pokud ale bude¹ podvádìt zkazí¹ si zá¾itek ze hry </br> Easter eggy </br> Ve høe jsou Easter eggy, ka¾dý takový Easter egg obsahuje kód. Ten kód zaèíná znakem #. </br> Pokud ho najde¹ a po¹le¹ mi ten kód dostane¹ odmìnu. </br> Odmìnu ani kód k ní prosím nijak ne¹iø, je to urèeno pouze nálezcùm. </br> Jednotlivé hry na sebe mohou odkazovat. </br> Pokud na mì nemá¹ kontakt, moje e-mailová adresa je fasterracer1@gmail.com . </br> U¾ij si hru. </br> </br> Fasterracer01;9902;Hrát;;;;;;;;
-9902;Jsi doma;;Je sobota odpoledne a chce¹ se do veèera nìèím zabavit, co bude¹ dìlat?;9903;èíst si kní¾ku;9905;zahrát si hru;;;;;;
+9902;Jsi doma;;Je sobota odpoledne a chce¹ se do veèera nìèím zabavit, co bude¹ dìlat?;9903;èíst si kní¾ku;9905;podívat se na poèítaè;;;;;;
 9903;Jsi u knihovny;;Najdi kní¾ku co by jsi chtìl èíst;9904;Prohledat knihovnu;9902;nechci si èíst kní¾ku;;;;;;
 9904;Perníková chaloupka;;Na¹el si kní¾ku Perníková chaloupka. Chce¹ si ji pøeèíst?;33;Zaèít èíst;9903;Podívat se po jiné;;;;;;
-9905;Jsi u poèítaèe;;Vyber jakou hru si zahraje¹;10000;Zákopová bitva;9902;nechci hrát hru;;;;;;
+9905;Jsi u poèítaèe;;Co chce¹ dìlat?;10000;zahrát si Zákopovou bitvu;9906;pøeèíst si zprávy;9902;jít pryè;;;;
+9906;Jsi na www.nejzpravy.cz;;<b> Co se to zase dìje?! </b> </br>Vìt¹ina èeských obchodù je vykoupena, kdo za to mù¾e? </br> Více zde</br><i>napsal Honza Va¹ulka - specialista na politiku</i></br></br></br> <b>Jak na to. </b></br>Nejnovìj¹í rady Zdeòka a Laïy ze seriálu Rady ptáka otvíráka.</br> <i>napsal Tomá¹ Fuk - specialista na hity </i></br></br></br> <b>Výzkum nejpopulárnìj¹í knihy Perníková chaloupka odhaliltajemství</b> Podle nejnovìj¹ího výzkumu má kniha Perníková chaloupka skrytý význam, konkrétnì...</br>Více zde</br>ovìøený komunitní èlánek - napsal Prokop Buben;9905;Jít zpìt;;;;;;;;
 33;jsi doma ve své chaloupce;chaloupka_doma2.png;Najdi maliny a nasbírej je;23;na sever ;34;na východ;32;na západ;;;;
 23;jsi na louce;paseka.png;kam chce¹ jít dál;13;na sever ;33;na jih;22;na západ;;;;
 32;jsi na louce;paseka.png;kam chce¹ jít dál?;22;na sever ;33;na východ;;;;;;
