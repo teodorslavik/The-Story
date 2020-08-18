@@ -55,6 +55,10 @@ while ($pole[$index_pole] != null) {
 }
 //echo ("hello world5");
 
+
+echo ("<p><a href=\"/game\">Nova hra</a></p>");
+
+
 echo ("</body>" .
        "</html>");
 
