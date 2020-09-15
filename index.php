@@ -50,6 +50,7 @@ echo ("<br />" .
 $index_pole = 4;
 while ($pole[$index_pole] != null) {
 	$index_pole_text = $index_pole + 1;
+  echo ("<p><a href=\"$pole[$index_pole]\">$pole[$index_pole_text]</a></p>");
 	echo ("<p><a href=\"index.php?set-prom1=$pole[$index_pole]\">$pole[$index_pole_text]</a></p>");
 	$index_pole = $index_pole + 2;
 }
