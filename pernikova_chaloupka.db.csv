@@ -5,8 +5,9 @@
 9902;Jsi doma;;Je sobota odpoledne a chce¹ se do veèera nìèím zabavit, co bude¹ dìlat?;9903;èíst si kní¾ku;9905;podívat se na poèítaè;;;;;;
 9903;Jsi u knihovny;;Najdi kní¾ku co by jsi chtìl èíst;9904;Prohledat knihovnu;9902;nechci si èíst kní¾ku;;;;;;
 9904;Perníková chaloupka;;Na¹el si kní¾ku Perníková chaloupka. Chce¹ si ji pøeèíst?;33;Zaèít èíst;9903;Podívat se po jiné;;;;;;
-9905;Jsi u poèítaèe;;Co chce¹ dìlat?;10000;zahrát si <strong>Zákopovou bitvu</strong>;https://teo.jacon.cz/game;zahrát si <strong>Bludi¹tì</strong>;9906;pøeèíst si zprávy;9902;jít pryè;;
+9905;Jsi u poèítaèe;;Co chce¹ dìlat?;10000;zahrát si <strong>Zákopovou bitvu</strong>;;zahrát si <strong>Bludi¹tì</strong>;9906;pøeèíst si zprávy;9902;jít pryè;;
 9906;Jsi na www.nejzpravy.cz;;<strong>Co se to zase dìje?!</strong></br>Vìt¹ina èeských obchodù je vykoupena, kdo za to mù¾e?</br>Více zde</br><i>napsal Honza Va¹ulka - specialista na politiku</i></br></br></br> <strong>Jak na to. </strong></br>Nejnovìj¹í rady Zdeòka a Laïy ze seriálu Rady ptáka otvíráka.</br> <i>napsal Tomá¹ Fuk - specialista na hity </i></br></br></br><strong>Výzkum nejpopulárnìj¹í knihy Perníková chaloupka odhaliltajemství.</strong> Podle nejnovìj¹ího výzkumu má kniha Perníková chaloupka skrytý význam, konkrétnì...</br>Více zde</br><i>ovìøený komunitní èlánek - napsal Prokop Buben</i>;9905;Jít zpìt;;;;;;;;
+9907;Intro Bludi¹tì;;Beta verze 1.01 </br> Vítej </br> Bludi¹tì je nová hra, je stále v pøípravì v budoucnu vyjdou doplòující updaty, momentálnì ¾ádný cíl némá je to jenom DEMO.</br>;https://teo.jacon.cz/game;<strong>hrát</strong>;9905;zpìt;;;;;;
 33;jsi doma ve své chaloupce;chaloupka_doma2.png;Najdi maliny a nasbírej je;23;na sever ;34;na východ;32;na západ;;;;
 23;jsi na louce;paseka.png;kam chce¹ jít dál;13;na sever ;33;na jih;22;na západ;;;;
 32;jsi na louce;paseka.png;kam chce¹ jít dál?;22;na sever ;33;na východ;;;;;;
