@@ -8,6 +8,7 @@
 9905;Jsi u poèítaèe;;Co chce¹ dìlat?;10000;zahrát si <strong>Zákopovou bitvu</strong>;9907;zahrát si <strong>Bludi¹tì</strong>;9906;pøeèíst si zprávy;9902;jít pryè;;
 9906;Jsi na www.nejzpravy.cz;;<strong>Co se to zase dìje?!</strong></br>Vìt¹ina èeských obchodù je vykoupena, kdo za to mù¾e?</br>Více zde</br><i>napsal Honza Va¹ulka - specialista na politiku</i></br></br></br> <strong>Jak na to. </strong></br>Nejnovìj¹í rady Zdeòka a Laïy ze seriálu Rady ptáka otvíráka.</br> <i>napsal Tomá¹ Fuk - specialista na hity </i></br></br></br><strong>Výzkum nejpopulárnìj¹í knihy Perníková chaloupka odhaliltajemství.</strong> Podle nejnovìj¹ího výzkumu má kniha Perníková chaloupka skrytý význam, konkrétnì...</br>Více zde</br><i>ovìøený komunitní èlánek - napsal Prokop Buben</i>;9905;Jít zpìt;;;;;;;;
 9907;Intro Bludi¹tì;;Beta verze 1.01 </br> Vítej </br> Bludi¹tì je nová hra, je stále v pøípravì </br>v budoucnu vyjdou doplòující updaty, </br>momentálnì ¾ádný cíl némá je to jenom DEMO.</br> Prozatím lze hrát jen na poèítaèi. </br> Dá se ovládat pomocí <i>w,a,s,d</i> nebo <i>¹ipky</i>;https://teo.jacon.cz/game;<strong>hrát</strong>;9905;zpìt;;;;;;
+9942;Výbornì;;vítám tì na tajné stránce, </br> Jsem rád ¾e tì má hra natolik zaujala. </br> U¾ívej Fasterracer01;;;;;;;;;;
 33;jsi doma ve své chaloupce;chaloupka_doma2.png;Najdi maliny a nasbírej je;23;na sever ;34;na východ;32;na západ;;;;
 23;jsi na louce;paseka.png;kam chce¹ jít dál;13;na sever ;33;na jih;22;na západ;;;;
 32;jsi na louce;paseka.png;kam chce¹ jít dál?;22;na sever ;33;na východ;;;;;;
@@ -80,7 +81,7 @@
 446;Jsi v lese;les.png;kam chce¹ jít dál?;436;na sever ;456;na jih;445;na západ;;;;
 426;Jsi v lese;les.png;kam chce¹ jít dál?;416;na sever ;436;na jih;425;na západ;;;;
 ;;;;;;;;;;;;;
-10000;Zákopová bitva;;Jsi obèanem vojensky zaostalé zemì, kterou napadly zemì Banána¹tánu, </br> v¹ichni bojeschopní mu¾i byli povoláni do armády. </br> Tato zemì je chud¹í, men¹í a slab¹í ne¾ zemì Banána¹tánu. </br> Díky pomoci spøátelených zemí jste vyrovnali poèty vojákù, </br> ale máte výraznì ménì zásob munice, zbraní a máte zastaralej¹í techniku.;10001;dál;9905;zpìt;;;;;;
+10000;Zákopová bitva;;Jsi obèanem vojensky zaostalé zemì, kterou napadly zemì Banána¹tánu, </br> v¹ichni bojeschopní mu¾i byli povoláni do armády. </br> Tato zemì je chud¹í, men¹í a slab¹í ne¾ zemì Banána¹tánu. </br> Díky pomoci spøátelených zemí jste vyrovnali poèty vojákù, </br> ale máte výraznì ménì zásob munice, zbraní a máte zastaralej¹í techniku.;10001;dál;9905;;;;;;;
 10001;Úvod do hry;;Nestal jsi se jedním ze ¹»astlivcù, </br> nedostal jsi výzbroj, má¹ jenom boty, uniformu a nù¾ </br> </br> </br>;10002;dál;;;;;;;;
 10002;Úvod do hry;;Hned druhý den tvého vojenského výcviku, byla tvoje zemì napadena zemìmi Banána¹tánu. </br> Zastihli vás pøi budování zákopù. Na¹tìstí pro vás zasáhla na bitevním poli píseèná bouøe. </br> Vznikl zmatek, polovina armády byla úplnì bez výcviku, pøi bombardování, útocích a ostøelování byli zmatení a nevìdìli co dìlat </br> </br>;10003;dál;;;;;;;;
 10003;Druhá linie zákopu;;Jsi v druhé linii zákopù, </br> v píseèné bouøi mimo zákop nevidí¹ na krok, </br> zùstat tady nemù¾e¹, tyto zákopy jsou blízko nepøíteli, </br> a hrozí ¾e ka¾dou chvíli zaútoèí. </br> Kam se vydá¹ se vydá¹?;10004;na levou stranu zákopu;;;;;;;;

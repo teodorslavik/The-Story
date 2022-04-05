@@ -65,6 +65,7 @@ while ($pole[$index_pole] != null) {
 
 echo ("</body>" .
        "</html>");
+echo ("<a href='support/index.php'>");
 
 fclose($soubor);
 ?>

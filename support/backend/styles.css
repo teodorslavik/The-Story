@@ -1,0 +1,16 @@
+.table, th , td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+.grid {
+  	display: grid;
+	grid-template-columns: repeat( auto-fill, minmax(300px, 1fr) );
+}
+.item {
+  background: grey;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  text-align: center;
+}
