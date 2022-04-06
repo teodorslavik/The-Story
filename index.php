@@ -31,6 +31,7 @@ $text = fgets($soubor, 50000);
 $pole = explode(";",$text);
 
 }
+echo("<p><a href=support/backend/index.php>a</a></p>");
 //echo ("hello world2");
 echo ("<h1>$pole[1]</h1>");
 echo ("<br />");
@@ -65,7 +66,6 @@ while ($pole[$index_pole] != null) {
 
 echo ("</body>" .
        "</html>");
-echo ("<a href='support/index.php'>");
 
 fclose($soubor);
 ?>

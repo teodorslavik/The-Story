@@ -64,7 +64,7 @@ if(!isset($_POST['number'])) {
 
 $databaseIndex = 0;
 
-$src = "../biuld/data.js";
+$src = "/Users/tedy/support_tv_view/mein-app/public/data.js";
 $login = true;
 $name = "Jan";
 read_and_delete_first_line($src);
@@ -145,7 +145,7 @@ if($login == true) {
 	$file_data = "export const userData =\n";
 	$file_data .= file_get_contents($src);
 	file_put_contents($src, $file_data);
-	echo("<a href='http://localhost:3000/'>back to view</a>");
+	echo("<a href='../build/index.html'>back to view</a>");
 }
 ?>
 </head>
