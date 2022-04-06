@@ -64,7 +64,7 @@ if(!isset($_POST['number'])) {
 
 $databaseIndex = 0;
 
-$src = "/Users/tedy/support_tv_view/mein-app/public/data.js";
+$src = "../build/data.js";
 $login = true;
 $name = "Jan";
 read_and_delete_first_line($src);
